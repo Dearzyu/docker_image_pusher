@@ -8,3 +8,5 @@ xhofe/alist:latest
 mysql:latest
 
 mysql:8.0.36
+
+redis:alpine3.20
